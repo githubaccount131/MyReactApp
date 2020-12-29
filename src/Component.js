@@ -3,7 +3,7 @@ import React from 'react';
 function FunctionComponent({ name }) {
   return (
     <div>
-      <h1>I'm a function Component</h1>
+      <h1>I'm a Function Component</h1>
       <h2>Hello, {name}</h2>
     </div>
   );
