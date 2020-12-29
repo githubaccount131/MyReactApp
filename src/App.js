@@ -21,7 +21,7 @@ class App extends React.Component {
     return (
       <div>
         <header className="intro">
-          <img src={logo} alt="React Logo" />
+          <img src={logo} alt="React Logo" title="React Logo" />
           <h1>Hello React!</h1>
           <p>
             React is a JavaScript library for building user interfaces
